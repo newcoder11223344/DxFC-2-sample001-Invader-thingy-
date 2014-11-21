@@ -1,0 +1,6 @@
+c:\users\gokoku houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\bin\Debug\DX001_INVADERS.exe.config
+C:\Users\Gokoku Houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\obj\Debug\DX001_INVADERS.csprojResolveAssemblyReference.cache
+C:\Users\Gokoku Houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\bin\Debug\DX001_INVADERS.exe
+C:\Users\Gokoku Houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\bin\Debug\DX001_INVADERS.pdb
+C:\Users\Gokoku Houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\obj\Debug\DX001_INVADERS.exe
+C:\Users\Gokoku Houzyou\documents\visual studio 2013\Projects\DX001_INVADERS\DX001_INVADERS\obj\Debug\DX001_INVADERS.pdb
